@@ -39,6 +39,7 @@ If you use our benchmark in your works, we would appreciate citations to the pap
    :caption: Resources
 
    fgl_studies
+   fgl_dataset
 
 .. toctree::
    :glob:
