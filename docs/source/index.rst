@@ -23,12 +23,22 @@ If you use our benchmark in your works, we would appreciate citations to the pap
    :maxdepth: 3
    :caption: Getting Started
 
+   intallation
+   example
+   fgl_tutorial
+
 
 .. toctree::
    :glob:
    :maxdepth: 3
    :caption: Modules
 
+.. toctree::
+   :glob:
+   :maxdepth: 3
+   :caption: Resources
+
+   fgl_studies
 
 .. toctree::
    :glob:
