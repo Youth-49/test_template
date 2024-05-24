@@ -30,11 +30,3 @@ If you use our benchmark in your works, we would appreciate citations to the pap
    :caption: Modules
 
 
-.. Contents
---------
-
-.. toctree::
-
-   usage
-   api
-..
