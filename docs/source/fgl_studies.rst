@@ -1,21 +1,11 @@
-FGL Studies
------------
+FGL studies
+========================
 
 Here we present a summary of papers in the FGL field.
 
-.. raw:: html
-
-   <details>
-
-.. raw:: html
-
-   <summary>
 
 Fed-Graph
-
-.. raw:: html
-
-   </summary>
+---------
 
 +--------------+--------------+-----------+---------------------------+
 | Title        | Venue        | Year      | Materials                 |
@@ -37,23 +27,10 @@ Fed-Graph
 | Sharing      |              |           |                           |
 +--------------+--------------+-----------+---------------------------+
 
-.. raw:: html
 
-   </details>
-
-.. raw:: html
-
-   <details>
-
-.. raw:: html
-
-   <summary>
 
 Fed-Subgraph
-
-.. raw:: html
-
-   </summary>
+---------
 
 +--------------+--------------+-----------+---------------------------+
 | Title        | Venue        | Year      | Materials                 |
@@ -167,23 +144,9 @@ Fed-Subgraph
 | Learning     |              |           |                           |
 +--------------+--------------+-----------+---------------------------+
 
-.. raw:: html
-
-   </details>
-
-.. raw:: html
-
-   <details>
-
-.. raw:: html
-
-   <summary>
 
 Survey / Library / Benchmarks
-
-.. raw:: html
-
-   </summary>
+----------
 
 +--------------+--------------+-----------+---------------------------+
 | Title        | Venue        | Year      | Materials                 |
@@ -235,6 +198,5 @@ Survey / Library / Benchmarks
 | Challenges   |              |           |                           |
 +--------------+--------------+-----------+---------------------------+
 
-.. raw:: html
 
    </details>
