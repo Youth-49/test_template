@@ -5,7 +5,7 @@ Here we present a summary of papers in the FGL field.
 
 
 Fed-Graph
----------
+----------
 
 +--------------+--------------+-----------+---------------------------+
 | Title        | Venue        | Year      | Materials                 |
@@ -30,7 +30,7 @@ Fed-Graph
 
 
 Fed-Subgraph
----------
+-------------
 
 +--------------+--------------+-----------+---------------------------+
 | Title        | Venue        | Year      | Materials                 |
@@ -146,7 +146,7 @@ Fed-Subgraph
 
 
 Survey / Library / Benchmarks
-----------
+-------------------------------
 
 +--------------+--------------+-----------+---------------------------+
 | Title        | Venue        | Year      | Materials                 |
