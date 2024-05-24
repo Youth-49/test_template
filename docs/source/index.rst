@@ -1,10 +1,10 @@
 :github_url: xxx
 
-OpenGSL Documentation
+OpenFGL Documentation
 ===================================
 
 **OpenFGL** is a benchmark for Federated Graph Learning.
-It provides a fair and comprehensive platform to evaluate existing FGL works and facilitate future FGL researches.
+It provides a fair and comprehensive platform to evaluate existing FGL works and facilitate future FGL research.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
