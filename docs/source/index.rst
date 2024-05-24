@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+:github_url: xxx
+
+OpenGSL Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**OpenFGL** is a benchmark for Federated Graph Learning.
+It provides a fair and comprehensive platform to evaluate existing FGL works and facilitate future FGL researches.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -13,7 +13,24 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
+Citation
+--------
+
+If you use our benchmark in your works, we would appreciate citations to the paper:
+
+.. toctree::
+   :glob:
+   :maxdepth: 3
+   :caption: Getting Started
+
+
+.. toctree::
+   :glob:
+   :maxdepth: 3
+   :caption: Modules
+
+
+.. Contents
 --------
 
 .. toctree::
