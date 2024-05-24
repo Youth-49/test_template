@@ -41,6 +41,11 @@ If you use our benchmark in your works, we would appreciate citations to the pap
    :maxdepth: 3
    :caption: Modules
 
+   module_client
+   module_server
+   module_task
+
+
 .. toctree::
    :glob:
    :maxdepth: 3
