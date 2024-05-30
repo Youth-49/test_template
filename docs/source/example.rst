@@ -27,6 +27,6 @@ Example
                 
             print(args)
             
-            
+            # set --root to store raw and processed dataset in your own path
             trainer = FGLTrainer(args)
             trainer.train()
