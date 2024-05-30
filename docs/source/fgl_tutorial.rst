@@ -22,17 +22,17 @@ Scenario and Dataset Simulation Settings
 
 
 :scenario:
-   **choices**: "fedgraph", "fedsubgraph"
+   *choices*: "fedgraph", "fedsubgraph"
 
 
 :simulation_mode:
-   **fedsubgraph choices**: "fedsubgraph_label_dirichlet", "fedsubgraph_louvain_clustering", "fedsubgraph_metis_clustering", "fedsubgraph_louvain", "fedsubgraph_metis"
+   *fedsubgraph choices*: "fedsubgraph_label_dirichlet", "fedsubgraph_louvain_clustering", "fedsubgraph_metis_clustering", "fedsubgraph_louvain", "fedsubgraph_metis"
 
-   **fedgraph choices**: "fedgraph_cross_domain", "fedgraph_label_dirichlet", "fedgraph_topology_skew"
+   *fedgraph choices*: "fedgraph_cross_domain", "fedgraph_label_dirichlet", "fedgraph_topology_skew"
 
 
 :processing:
-   **choices**: "raw", "random_feature_sparsity", "random_feature_noise", "random_edge_sparsity", "random_edge_noise", "random_label_sparsity", "random_label_noise"
+   *choices*: "raw", "random_feature_sparsity", "random_feature_noise", "random_edge_sparsity", "random_edge_noise", "random_label_sparsity", "random_label_noise"
 
 Communication Settings
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ FL/FGL Algorithm Settings
 
 
 :fl_algorithm:
-   **choices**: "isolate", "fedavg", "fedprox", "scaffold", "moon", "feddc", "fedproto", "fedtgp", "fedpub", "fedstar", "fedgta", "fedtad", "gcfl_plus", "fedsage_plus", "adafgl", "feddep", "fggp", "fgssl", "fedgl"
+   *choices*: "isolate", "fedavg", "fedprox", "scaffold", "moon", "feddc", "fedproto", "fedtgp", "fedpub", "fedstar", "fedgta", "fedtad", "gcfl_plus", "fedsage_plus", "adafgl", "feddep", "fggp", "fgssl", "fedgl"
 
 
 Model and Task Settings
@@ -73,9 +73,9 @@ Model and Task Settings
 
 
 :task:
-   **fedgraph choices**: "graph_cls", "graph_reg"
+   *fedgraph choices*: "graph_cls", "graph_reg"
 
-   **fedsubgraph choices**: "node_cls", "link_pred", "node_clust"
+   *fedsubgraph choices*: "node_cls", "link_pred", "node_clust"
 
 
 Evaluation Settings
@@ -88,8 +88,8 @@ Evaluation Settings
 
 
 :metrics:
-   **choices**: "accuracy", "precision", "f1", "recall", "auc", "ap", "clustering_accuracy", "nmi", "ari"
+   *choices*: "accuracy", "precision", "f1", "recall", "auc", "ap", "clustering_accuracy", "nmi", "ari"
 
 
 :evaluation_mode:
-   **choices**: "global_model_on_local_data", "global_model_on_global_data", "local_model_on_local_data", "local_model_on_global_data"
+   *choices*: "global_model_on_local_data", "global_model_on_global_data", "local_model_on_local_data", "local_model_on_global_data"
