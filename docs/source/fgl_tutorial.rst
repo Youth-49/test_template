@@ -93,3 +93,14 @@ Evaluation Settings
 
 :evaluation_mode:
    *choices*: "global_model_on_local_data", "global_model_on_global_data", "local_model_on_local_data", "local_model_on_global_data"
+
+
+Privacy Settings:
+~~~~~~~~~~~~~~~~~~
+
+.. code:: python
+
+   --dp_mech            # differential privacy mechanism
+   --dp_eps             # differential privacy epsilon
+   --dp_delta           # differential privacy delta
+   --grad_clip          # gradient clip max_norm
