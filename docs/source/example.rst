@@ -2,6 +2,7 @@ Example
 ========================
 
 .. code:: python
+
             from flcore.trainer import FGLTrainer
             from utils.basic_utils import seed_everything
             import sys
