@@ -19,6 +19,11 @@ Scenario and Dataset Simulation Settings
    --dataset            # list of used dataset(s)
    --simulation_mode    # strategy for extracting FGL dataset from global dataset
 
+:param1:
+    **Description**: This parameter controls the input file path.
+    **Type**: string
+    **Default**: 'input.txt'
+
 Communication Settings
 ~~~~~~~~~~~~~~~~~~~~~~
 
